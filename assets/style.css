@@ -1,0 +1,82 @@
+* {
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: brown;
+}
+    
+
+
+
+header nav {
+    padding: 15px;
+   background-color: rgb(12, 121, 102);
+   color: white;
+    font-size: 20px;
+    height: 25px;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    
+
+}
+
+header nav ul {
+    padding-right: 40px;
+    list-style-type: none;
+    float :right;
+}
+
+header nav a {
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+main {
+    margin-top: 50px;
+    padding-top: 5px;
+    background-color: blanchedalmond;
+    align: center;
+}
+
+#my-new-website {
+ text-align: center;
+ height: 500px;
+ margin-top: 100px;
+ margin-bottom: 50px;
+ background-color: azure;
+}
+
+ 
+#outersquare {
+position: relative;
+left: 33%;
+height:400px;
+width:400px;
+background-color: aquamarine;
+
+}
+
+#input-fields{
+    border: 2pt solid;
+    border-radius: 20px;
+    padding: 5px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#sendbutton {margin:20px}
+
+footer {
+align-content: center;
+text-align: center;
+padding: 15px;
+background-color: rgb(12, 121, 102);
+color: #ffffff;
+}
